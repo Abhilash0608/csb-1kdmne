@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "https://abhilash0608.github.io/csb-1kdmne/static/css/main.fa6dd2eb.chunk.css",
+    "main.js": "https://abhilash0608.github.io/csb-1kdmne/static/js/main.89c81a65.chunk.js",
+    "main.js.map": "https://abhilash0608.github.io/csb-1kdmne/static/js/main.89c81a65.chunk.js.map",
+    "runtime-main.js": "https://abhilash0608.github.io/csb-1kdmne/static/js/runtime-main.7122f69c.js",
+    "runtime-main.js.map": "https://abhilash0608.github.io/csb-1kdmne/static/js/runtime-main.7122f69c.js.map",
+    "static/js/2.20f11723.chunk.js": "https://abhilash0608.github.io/csb-1kdmne/static/js/2.20f11723.chunk.js",
+    "static/js/2.20f11723.chunk.js.map": "https://abhilash0608.github.io/csb-1kdmne/static/js/2.20f11723.chunk.js.map",
+    "index.html": "https://abhilash0608.github.io/csb-1kdmne/index.html",
+    "static/css/main.fa6dd2eb.chunk.css.map": "https://abhilash0608.github.io/csb-1kdmne/static/css/main.fa6dd2eb.chunk.css.map",
+    "static/js/2.20f11723.chunk.js.LICENSE.txt": "https://abhilash0608.github.io/csb-1kdmne/static/js/2.20f11723.chunk.js.LICENSE.txt",
+    "static/media/BurjKhalifa.45103d9f.mp3": "https://abhilash0608.github.io/csb-1kdmne/static/media/BurjKhalifa.45103d9f.mp3",
+    "static/media/CareNiKarda.cd6600c5.mp3": "https://abhilash0608.github.io/csb-1kdmne/static/media/CareNiKarda.cd6600c5.mp3",
+    "static/media/JasonDeruloTakeYouDancing.ed2fdad1.mp3": "https://abhilash0608.github.io/csb-1kdmne/static/media/JasonDeruloTakeYouDancing.ed2fdad1.mp3",
+    "static/media/JasonDeruloTakeYouDancingImg.f0b87d90.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/JasonDeruloTakeYouDancingImg.f0b87d90.jpg",
+    "static/media/NaachMeriRani.44cb7e51.mp3": "https://abhilash0608.github.io/csb-1kdmne/static/media/NaachMeriRani.44cb7e51.mp3",
+    "static/media/ParovStelarGeorgiaGibbsTangoDelFuego.87fedd8a.mp3": "https://abhilash0608.github.io/csb-1kdmne/static/media/ParovStelarGeorgiaGibbsTangoDelFuego.87fedd8a.mp3",
+    "static/media/ParovStelarGeorgiaGibbsTangoDelFuegoImg.c4c4184f.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/ParovStelarGeorgiaGibbsTangoDelFuegoImg.c4c4184f.jpg",
+    "static/media/TitliaanWarga.d5edb48d.mp3": "https://abhilash0608.github.io/csb-1kdmne/static/media/TitliaanWarga.d5edb48d.mp3",
+    "static/media/burjkalifa.30e69cc8.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/burjkalifa.30e69cc8.jpg",
+    "static/media/carenikarda.6791d507.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/carenikarda.6791d507.jpg",
+    "static/media/nachmerirani.7f733a3a.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/nachmerirani.7f733a3a.jpg",
+    "static/media/titaliya.0fe9c6cb.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/titaliya.0fe9c6cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7122f69c.js",
+    "static/js/2.20f11723.chunk.js",
+    "static/css/main.fa6dd2eb.chunk.css",
+    "static/js/main.89c81a65.chunk.js"
+  ]
+}
