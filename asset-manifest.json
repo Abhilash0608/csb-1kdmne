@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://abhilash0608.github.io/csb-1kdmne/static/css/main.fa6dd2eb.chunk.css",
-    "main.js": "https://abhilash0608.github.io/csb-1kdmne/static/js/main.f9ec6ea2.chunk.js",
-    "main.js.map": "https://abhilash0608.github.io/csb-1kdmne/static/js/main.f9ec6ea2.chunk.js.map",
+    "main.js": "https://abhilash0608.github.io/csb-1kdmne/static/js/main.ab5e969a.chunk.js",
+    "main.js.map": "https://abhilash0608.github.io/csb-1kdmne/static/js/main.ab5e969a.chunk.js.map",
     "runtime-main.js": "https://abhilash0608.github.io/csb-1kdmne/static/js/runtime-main.7122f69c.js",
     "runtime-main.js.map": "https://abhilash0608.github.io/csb-1kdmne/static/js/runtime-main.7122f69c.js.map",
     "static/js/2.20f11723.chunk.js": "https://abhilash0608.github.io/csb-1kdmne/static/js/2.20f11723.chunk.js",
@@ -20,13 +20,13 @@
     "static/media/TitliaanWarga.d5edb48d.mp3": "https://abhilash0608.github.io/csb-1kdmne/static/media/TitliaanWarga.d5edb48d.mp3",
     "static/media/burjkalifa.d86c0f88.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/burjkalifa.d86c0f88.jpg",
     "static/media/carenikarda.e52741ba.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/carenikarda.e52741ba.jpg",
-    "static/media/nachmerirani.7f733a3a.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/nachmerirani.7f733a3a.jpg",
+    "static/media/nachmerirani.21dfb2c5.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/nachmerirani.21dfb2c5.jpg",
     "static/media/titaliya.627de991.jpg": "https://abhilash0608.github.io/csb-1kdmne/static/media/titaliya.627de991.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7122f69c.js",
     "static/js/2.20f11723.chunk.js",
     "static/css/main.fa6dd2eb.chunk.css",
-    "static/js/main.f9ec6ea2.chunk.js"
+    "static/js/main.ab5e969a.chunk.js"
   ]
 }
